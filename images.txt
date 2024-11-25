@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 # MY
 node:20-alpine
+node:22-alpine
